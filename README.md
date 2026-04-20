@@ -21,6 +21,19 @@ O(n)
 ## Space Complexity
 O(n)
 
+## Key Concepts
+- Linked List
+- Carry handling
+- Simulation of addition
+
+## Example
+Input:
+2 → 4 → 3
+5 → 6 → 4
+
+Output:
+7 → 0 → 8
+
 ## Notes
 Used dummy node to simplify list construction and avoid edge cases.
 
